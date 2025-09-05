@@ -75,7 +75,7 @@ This project uses a real-world Airbnb listings dataset to build a powerful and i
 
 The dashboard is publicly available on Tableau Public. Click the link below to explore the live, interactive version.
 
-➡️ **[View the Interactive Tableau Dashboard Here]([https://your-link-to-the-tableau-dashboard.com](https://public.tableau.com/app/profile/meet.afk/viz/TableauProject1AirbnbDataAnalysis/Dashboard1))**
+➡️ **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/meet.afk/viz/TableauProject1AirbnbDataAnalysis/Dashboard1)**
 
 ---
 
