@@ -13,7 +13,6 @@ An interactive Tableau dashboard that explores Airbnb listings data to visualize
 A snapshot of the main dashboard. For the full interactive experience, please use the link in the "How to View" section.
 
 ![Dashboard Snapshot](/images1/Dashboard_1.png)
-*<-- Important: Replace this with a high-quality screenshot of your actual Tableau dashboard! -->*
 
 ---
 
